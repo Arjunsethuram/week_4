@@ -4,4 +4,4 @@
 
 #### Step 1: Refresh the page
 
-In this project create one pacmen and move the pacmen in horizontal in same velocity
+In this project create one pacmen and move the pacmen in horizontal in same velocity.
